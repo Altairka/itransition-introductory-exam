@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itransition-introductory-exam", "itransition-introductory-exam\itransition-introductory-exam.csproj", "{52A0467A-80A1-4A55-A591-076E8D93CE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A0467A-80A1-4A55-A591-076E8D93CE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A0467A-80A1-4A55-A591-076E8D93CE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A0467A-80A1-4A55-A591-076E8D93CE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A0467A-80A1-4A55-A591-076E8D93CE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503A4A3D-3B38-4FD2-AE4E-0FD7F12BE3CA}
+	EndGlobalSection
+EndGlobal
